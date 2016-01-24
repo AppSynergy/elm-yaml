@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "Tests for a YAML module for Elm.",
-    "repository": "https://github.com/user/project.git",
+    "repository": "https://github.com/AppSynergy/elm-yaml.git",
     "license": "BSD3",
     "source-directories": [
         ".",
